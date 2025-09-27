@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+run: python scripts/hybrid_indexer.py --test "medicine for cold and cough" --topk 5
+
 ******Note: USES MINI EMBEDDING FOR NOW, UPDATE THE EMBEDDING FOR BETTER RESULTS.*****
 
 Phase 3 — Indexing
